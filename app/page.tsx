@@ -204,17 +204,17 @@ export default function Portfolio() {
         title: "TalkBloom App",
         description:
           "A modern communication platform built with TypeScript, featuring user authentication, and responsive design. Focused on creating seamless learning expereanc.",
-        image: "/p1.png",
+        image: "/p1.PNG",
         technologies: ["TypeScript", "React", "Node.js", "Tailwind CSS", "neon", "Git"],
         github: "https://github.com/aeubs66/talkbloomApp",
         live: "https://talkbloom.vercel.app/",
         featured: true,
       },
       {
-        title: "Code Craft",
+        title: "CodeCraft",
         description:
           "A comprehensive collection of coding projects and experiments showcasing various programming concepts, algorithms, and development practices. Built with modern TypeScript for type safety and maintainability.",
-        image: "/p2.png",
+        image: "/p2.PNG",
         technologies: ["TypeScript", "Tailwind CSS", "React", "Next.js", "Git"],
         github: "https://github.com/aeubs66/code",
         live: "https://code-dusky-kappa.vercel.app/",
@@ -526,7 +526,7 @@ export default function Portfolio() {
                   data-magnetic="true"
                 >
                   <img
-                    src="/img2.jpg"
+                    src="/img3.HEIC"
                     alt="About Ayoub Salih"
                     className="rounded-2xl shadow-2xl w-full"
                   />
