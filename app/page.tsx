@@ -526,7 +526,7 @@ export default function Portfolio() {
                   data-magnetic="true"
                 >
                   <img
-                    src="/img3.HEIC"
+                    src="/img4.jpg"
                     alt="About Ayoub Salih"
                     className="rounded-2xl shadow-2xl w-full"
                   />
