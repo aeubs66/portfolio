@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="450" viewBox="0 0 1280 450" role="img" aria-labelledby="title desc">
+<title id="title">Ayoub.dev — A personal space for things I build.</title>
+<desc id="desc">An emerald and cyan portfolio banner for Ayoub Salih with a geometric monogram and project cards.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070e12"/><stop offset="1" stop-color="#102021"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#34d399"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#b9ffee" opacity=".08"/></pattern>
+</defs>
+<rect width="1280" height="450" rx="26" fill="url(#bg)"/>
+<rect width="1280" height="450" rx="26" fill="url(#dots)"/>
+<path d="M760 0L1280 450M1000 0L1280 245" stroke="#3de9b6" stroke-opacity=".07"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="62" y="72" fill="#8ba9a5" font-size="12" font-weight="600" letter-spacing="3">PERSONAL PORTFOLIO / AYOUB SALIH</text>
+<text x="57" y="180" fill="#f1fff9" font-size="80" font-weight="750" letter-spacing="-4">Ayoub<tspan fill="url(#accent)">.dev</tspan></text>
+<text x="62" y="244" fill="#e4f4ee" font-size="32" font-weight="600" letter-spacing="-.5">A personal space for things I build.</text>
+<text x="62" y="287" fill="#93aaa9" font-size="18">Web development. Thoughtful interfaces. Creative experiments.</text>
+<path d="M62 326H643" stroke="#9affdd" stroke-opacity=".15"/>
+<rect x="62" y="353" width="100" height="34" rx="17" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".25"/>
+<text x="83" y="375" fill="#99ead0" font-size="13">Next.js 15</text>
+<rect x="174" y="353" width="89" height="34" rx="17" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".25"/>
+<text x="194" y="375" fill="#99ead0" font-size="13">React 19</text>
+<rect x="275" y="353" width="111" height="34" rx="17" fill="#38bdf8" fill-opacity=".09" stroke="#38bdf8" stroke-opacity=".25"/>
+<text x="295" y="375" fill="#addcf0" font-size="13">TypeScript</text>
+<rect x="398" y="353" width="125" height="34" rx="17" fill="#38bdf8" fill-opacity=".09" stroke="#38bdf8" stroke-opacity=".25"/>
+<text x="418" y="375" fill="#addcf0" font-size="13">Tailwind CSS</text>
+</g>
+<g transform="translate(818 47)">
+<circle cx="165" cy="158" r="153" fill="none" stroke="#86e7ce" stroke-opacity=".13"/>
+<circle cx="165" cy="158" r="122" fill="none" stroke="#86e7ce" stroke-opacity=".09"/>
+<rect x="64" y="57" width="202" height="202" rx="42" fill="#102c29" stroke="#61e9bd" stroke-opacity=".38" transform="rotate(-8 165 158)"/>
+<path d="M112 206L161 103H175L224 206H201L189 179H146L134 206ZM154 160H181L168 129Z" fill="url(#accent)"/>
+<circle cx="38" cy="82" r="5" fill="#34d399"/><circle cx="299" cy="223" r="4" fill="#38bdf8"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="-30" y="279" width="181" height="62" rx="14" fill="#102722" stroke="#335b50"/>
+<text x="-10" y="302" fill="#76a99b" font-size="10" letter-spacing="1.3">01 / LANGUAGE LEARNING</text>
+<text x="-10" y="326" fill="#e7fff5" font-size="18" font-weight="600">TalkBloom</text>
+<rect x="163" y="279" width="181" height="62" rx="14" fill="#11212c" stroke="#304a5c"/>
+<text x="183" y="302" fill="#7ba2bb" font-size="10" letter-spacing="1.3">02 / CODE PLAYGROUND</text>
+<text x="183" y="326" fill="#e7f5ff" font-size="18" font-weight="600">CodeCraft</text>
+</g>
+</g>
+</svg>
